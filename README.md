@@ -1,3 +1,7 @@
+Always intrigued by this project, but never could get in touch with the author to see about getting a gerber file for me to build my own. I am recreating the schematic in easyEDA and plan to design a PCB and complete this project. I have never done anything like this, but trying to get the hang of it.
+
+----------------------------------
+
 AZIZ LED Ring Light Firmware
 
 Copyright (C) 2013 Stephen Richardson (steve@tangentaudio.com)
